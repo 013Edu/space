@@ -1,6 +1,6 @@
 # space
 
-## Um projeto sobre uma galeria de fotos do espaço, com funcionalidade de pesquisa de imagens especificas através de tags e um layout responsivo e elegante.
+### Um projeto sobre uma galeria de fotos do espaço, com funcionalidade de pesquisa de imagens especificas através de tags e um layout responsivo e elegante.
 
 # Tecnologias
 
